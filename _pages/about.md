@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate in Computer Science and Engineering at Sun Yat-sen University, supervised by Prof.[Xianwei Zhang](https://xianweiz.github.io/). In Fall 2026 I will begin my Master's studies at Tsinghua University, advised by Prof.[Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu), focusing on high-performance computing for large-scale AI systems.
+I'm a fourth-year undergraduate in Computer Science and Engineering at Sun Yat-sen University, supervised by Prof. [Xianwei Zhang](https://xianweiz.github.io/). In Fall 2026 I will begin my Master's studies at Tsinghua University, advised by Prof. [Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu), focusing on high-performance computing for large-scale AI systems.
 
 A data-driven personal website
 ======
